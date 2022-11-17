@@ -1,1 +1,1 @@
-simple shell by peace and jude
+simple shell project by peace and jude
